@@ -1,0 +1,10 @@
+h1.first { text-decoration: underline;
+   text-shadow: 4px 2px 6px grey}
+body {background-image: url(https://wallpaperstudio10.com/static/wpdb/wallpapers/1920x1080/168143.jpg);
+   background-blend-mode: darken;
+   background-size: contain;
+}
+div.second {text-decoration: underline;
+   font-style: oblique;}
+table.t1 {resize: both;
+     white-space: nowrap;}
