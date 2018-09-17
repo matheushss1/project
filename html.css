@@ -1,0 +1,16 @@
+#1{
+  color: blue;}
+.first{
+    color: red
+  }
+  #2{
+    color: brown
+  }
+#3{
+  color: magenta
+}
+body{
+  background-image: url(https://images.pexels.com/photos/552791/pexels-photo-552791.jpeg?auto=compress&cs=tinysrgb&h=350);
+  background-repeat:  no-repeat;
+  background-size:  cover;
+}
